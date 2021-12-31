@@ -1,0 +1,15 @@
+2021-12-01 06:06:11.199644|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-12-11 13:45:35.298221|INFO    |PktHandler    |1  |Dropping client 14092 because of ping timeout 19 0 0
+2021-12-15 18:48:43.082113|INFO    |VirtualServer |1  |client 'Flanix'(id:347) was added to channelgroup 'Channel Admin'(id:5) by client 'Björn'(id:2) in channel 'Flanix'(id:16)
+2021-12-16 12:51:27.594968|INFO    |PktHandler    |1  |Dropping client 22976 because of ping timeout 19 0 0
+2021-12-18 18:47:25.931551|INFO    |PktHandler    |1  |Dropping client 26421 because of ping timeout 19 0 0
+2021-12-23 20:32:45.005785|INFO    |VirtualServer |1  |client 'Tezeria'(id:348) was added to channelgroup 'Channel Admin'(id:5) by client 'Björn'(id:2) in channel 'Sebbe'(id:10)
+2021-12-29 21:45:31.951218|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:11) was added by 'Björn'(id:2) to channel '[cspacer*]~NY TS~'(id:24)
+2021-12-29 21:45:31.953993|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:133) with values (value:56) was added by 'Björn'(id:2) to channel '[cspacer*]~NY TS~'(id:24)
+2021-12-29 21:45:31.954449|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:55) was added by 'Björn'(id:2) to channel '[cspacer*]~NY TS~'(id:24)
+2021-12-29 21:47:32.509553|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:5) was added by 'Björn'(id:2) to channel '[*cspacer0]-~'(id:25)
+2021-12-29 21:47:32.510316|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:133) with values (value:65) was added by 'Björn'(id:2) to channel '[*cspacer0]-~'(id:25)
+2021-12-29 21:47:32.510830|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:55) was added by 'Björn'(id:2) to channel '[*cspacer0]-~'(id:25)
+2021-12-29 21:48:18.110397|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:133) with values (value:65) was added by 'Björn'(id:2) to channel 'Ny TS: ddf.gavs.eu'(id:26)
+2021-12-29 21:48:18.111014|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:55) was added by 'Björn'(id:2) to channel 'Ny TS: ddf.gavs.eu'(id:26)
+2021-12-30 23:09:18.881218|INFO    |VirtualServerBase|1  |stopped

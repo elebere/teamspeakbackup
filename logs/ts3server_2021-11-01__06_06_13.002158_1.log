@@ -1,0 +1,7 @@
+2021-11-01 06:06:15.490570|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-11-01 17:08:05.297419|INFO    |VirtualServer |1  |client 'Gring0'(id:10) was added to channelgroup 'Channel Admin'(id:5) by client 'Björn'(id:2) in channel 'Paakkoo & Gringo'(id:19)
+2021-11-08 20:01:12.039409|INFO    |PktHandler    |1  |Dropping client 10765 because of ping timeout 19 0 0
+2021-11-08 20:02:21.152761|INFO    |PktHandler    |1  |Dropping client 11008 because of ping timeout 19 0 0
+2021-11-17 21:34:21.314469|INFO    |PktHandler    |1  |Dropping client 24722 because of ping timeout 19 0 0
+2021-11-26 18:05:14.560684|INFO    |PktHandler    |1  |Dropping client 37856 because of ping timeout 19 0 0
+2021-12-01 06:05:04.960438|INFO    |VirtualServerBase|1  |stopped
